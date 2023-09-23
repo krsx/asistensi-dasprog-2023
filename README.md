@@ -1,2 +1,2 @@
 # Asistensi Praktikum Dasar Pemrograman
-Berikut adalah bank soal asistensi bagi mereka yang mendapatkan asisten Krisna. Apabila terdapat pertanyaan mengenai soal asistensi yang diberikan, dapat ditanyakan ke asisten yang bersangkutan. Selamat mengerjakan 👌
+Here is the assistant's question for those who have Krisna as their assistant. If there are any questions about the assistance question provided, you can ask the respective assistant. Happy working! 👌 👌
